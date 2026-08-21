@@ -23,7 +23,7 @@ game-progression-guide/
 
 | Section | Jumlah Topik | Progress | Detail |
 |---|---|---|---|
-| Prestige Guides | 20 | 2 / 20 ditulis | [Lihat daftar](prestige-guides/README.md) |
+| Prestige Guides | 20 | 3 / 20 ditulis | [Lihat daftar](prestige-guides/README.md) |
 | Other Info | 18 | 1 / 18 ditulis | [Lihat daftar](other-info/README.md) |
 | Runes Information | 6 | 0 / 6 ditulis | [Lihat daftar](runes-information/README.md) |
 
