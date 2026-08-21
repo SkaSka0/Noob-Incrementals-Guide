@@ -4,8 +4,8 @@ Guide progres linear, diikuti berurutan dari Prestige 0 sampai 19+. Total 20 top
 
 | # | Topik | File | Status |
 |---|---|---|---|
-| 1 | Prestige 0-1 | [00-prestige-0-1.md](00-prestige-0-1.md) | ⬜  |
-| 2 | Prestige 1-2 | [01-prestige-1-2.md](01-prestige-1-2.md) | ⬜  |
+| 1 | Prestige 0-1 | [00-prestige-0-1.md](00-prestige-0-1.md) | ✅  |
+| 2 | Prestige 1-2 | [01-prestige-1-2.md](01-prestige-1-2.md) | ✅  |
 | 3 | Prestige 2-3 | [02-prestige-2-3.md](02-prestige-2-3.md) | ⬜  |
 | 4 | Prestige 3-4 | [03-prestige-3-4.md](03-prestige-3-4.md) | ⬜  |
 | 5 | Prestige 4-5 | [04-prestige-4-5.md](04-prestige-4-5.md) | ⬜  |
